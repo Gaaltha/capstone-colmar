@@ -42,4 +42,39 @@ nav {
 }
 
 /* Main Section */
+/* Banner */
+.banner {
+    background: #d8d8d8; 
+    display: flex;
+    align-items: center;
+}
 
+.banner img {
+    width: 60%;
+    height: auto;
+    padding: 2rem 1.5rem;
+}
+
+.text {
+    width: 30%;
+}
+
+.text h2 {
+    font-size: 3rem;
+}
+
+.text p {
+    font-size: 1.5rem;
+}
+
+.text .start-button {
+    background-color: #4a4a4a;
+    color: #d8d8d8;
+    text-align: center;
+    padding: 0.5rem 0;
+}
+
+/* Info Section */
+/* Start Learning Section */
+/* Thesis Section */
+/* Footer */
